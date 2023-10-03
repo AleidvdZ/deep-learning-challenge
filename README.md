@@ -6,11 +6,13 @@ The purpose of this challenge is to create a tool that can help a fictious nonpr
 ### Timeline/Insights:  
 0919 Created repository and organized files  
 0921 Completed a small amount of preprocessing coding; Formatted README.md; Created a WIP (Work in Process) folder to save file downloads from Google Colaboratory to demonstrate progress in coding.
+1002 Worked on preprocessing and got stuck with binning
 
 ### Files and Links used for Reference:  
 Module 21 Day 1 and 2 activities  
-Basic searches for Pandas coding refresher  
+Basic searches for Pandas coding refresher
 
+Link for df basics: https://saturncloud.io/blog/python-pandas-convert-valuecounts-output-to-dataframe/#:~:text=It%20returns%20a%20pandas%20Series,count%20is%20the%20corresponding%20value.&text=As%20you%20can%20see%2C%20the,counts%20as%20the%20corresponding%20values.  
 ## Examples
 
 ## Installing
